@@ -1,5 +1,5 @@
 # REST : Robust and Efficient Sleep Monitoring in the Wild
-Code accompanying our submission to WWW 2020.
+Code accompanying WWW 2020 paper.
 
 ## Contents
 1. [Motivation](#motivation)
