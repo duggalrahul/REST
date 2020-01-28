@@ -73,7 +73,7 @@ smmap2==2.0.5
 soupsieve==1.9.2
 tensorboard==1.13.1
 tensorboardX==1.6
-tensorflow==1.13.1
+tensorflow==1.15.2
 tensorflow-estimator==1.13.0
 -e git+https://github.com/tensorly/tensorly@5ef625f0bcf3d89e463f327daae2f18746dba45b#egg=tensorly
 termcolor==1.1.0
